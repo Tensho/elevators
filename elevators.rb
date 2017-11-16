@@ -1,3 +1,6 @@
+# WorkerPool
+# https://hspazio.github.io/2017/worker-pool
+
 require 'celluloid'
 
 class Elevator
